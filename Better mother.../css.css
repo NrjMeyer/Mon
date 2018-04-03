@@ -1,0 +1,16 @@
+body
+	{	margin:10px auto;
+		max-width:650px;
+		line-height:1.6; 
+		padding:10px; 
+		font: italic bold 15px/30px Georgia serif;
+	}
+h1,h2,h3
+	{line-height:1.2}
+header
+	{	border:double;
+		border-radius: 8px;border-color: white ;
+		background: #32CD32;
+		text-align: center;
+	}
+header h1 {text-shadow: 2px 2px white;}
